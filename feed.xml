@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Josep Pinyol Balasch</title>
+    <link href="https://jpbhtf.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://jpbhtf.github.io/gh-pages" />
+    <updated>2023-09-06T07:21:43+02:00</updated>
+    <author>
+        <name>Josep Pinyol Balasch</name>
+    </author>
+    <id>https://jpbhtf.github.io/gh-pages</id>
+
+    <entry>
+        <title>Ho Tornarem A Fer</title>
+        <author>
+            <name>Josep Pinyol Balasch</name>
+        </author>
+        <link href="https://jpbhtf.github.io/gh-pages/ho-tornarem-a-fer.html"/>
+        <id>https://jpbhtf.github.io/gh-pages/ho-tornarem-a-fer.html</id>
+        <media:content url="https://jpbhtf.github.io/gh-pages/media/posts/1/7ideesTornem-ho.jpg" medium="image" />
+            <category term="Llibres"/>
+
+        <updated>2023-09-06T07:21:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jpbhtf.github.io/gh-pages/media/posts/1/7ideesTornem-ho.jpg" alt="Ho Tornarem a Fer" />
+                    Algun citació rellevant que potser voldries incluir (Opcional) Admin La independència és mes posible que mai La desobediència civil ha doblegat els Estats més forts Desconcert entre una opció fallida i una irrealtzable Tornem-ho a fer! És a l'abast. Espanya no té cap futur per&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jpbhtf.github.io/gh-pages/media/posts/1/7ideesTornem-ho.jpg" class="type:primaryImage" alt="Ho Tornarem a Fer" /></p>
+                
+    <figure class="blockquote">
+      <blockquote>Algun citació rellevant que potser voldries incluir (Opcional)</blockquote>
+      <figcaption>Admin</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jpbhtf.github.io/gh-pages/media/posts/1/1-Independencia_possible-2.jpg" height="1665" width="1189" alt="La independència és mes posible que mai"  sizes="100vw" srcset="https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/1-Independencia_possible-2-xs.jpg 300w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/1-Independencia_possible-2-sm.jpg 480w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/1-Independencia_possible-2-md.jpg 768w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/1-Independencia_possible-2-lg.jpg 1024w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/1-Independencia_possible-2-xl.jpg 1360w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/1-Independencia_possible-2-2xl.jpg 1600w">
+      <figcaption>La independència és mes posible que mai</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jpbhtf.github.io/gh-pages/media/posts/1/2-Desobediencia_doblega.jpg" height="1665" width="1189" alt="La desobediència civil ha doblegat els Estats més forts"  sizes="100vw" srcset="https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/2-Desobediencia_doblega-xs.jpg 300w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/2-Desobediencia_doblega-sm.jpg 480w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/2-Desobediencia_doblega-md.jpg 768w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/2-Desobediencia_doblega-lg.jpg 1024w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/2-Desobediencia_doblega-xl.jpg 1360w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/2-Desobediencia_doblega-2xl.jpg 1600w">
+      <figcaption>La desobediència civil ha doblegat els Estats més forts</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jpbhtf.github.io/gh-pages/media/posts/1/3-Desconcert-entre-opcions.jpg" height="1665" width="1189" alt="Desconcert entre una opció fallida i una irrealtzable"  sizes="100vw" srcset="https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/3-Desconcert-entre-opcions-xs.jpg 300w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/3-Desconcert-entre-opcions-sm.jpg 480w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/3-Desconcert-entre-opcions-md.jpg 768w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/3-Desconcert-entre-opcions-lg.jpg 1024w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/3-Desconcert-entre-opcions-xl.jpg 1360w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/3-Desconcert-entre-opcions-2xl.jpg 1600w">
+      <figcaption>Desconcert entre una opció fallida i una irrealtzable</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jpbhtf.github.io/gh-pages/media/posts/1/4-Tornem-ho-fer_A-labast.jpg" height="1665" width="1189" alt="Tornem-ho a fer! És a l'abast."  sizes="100vw" srcset="https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/4-Tornem-ho-fer_A-labast-xs.jpg 300w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/4-Tornem-ho-fer_A-labast-sm.jpg 480w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/4-Tornem-ho-fer_A-labast-md.jpg 768w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/4-Tornem-ho-fer_A-labast-lg.jpg 1024w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/4-Tornem-ho-fer_A-labast-xl.jpg 1360w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/4-Tornem-ho-fer_A-labast-2xl.jpg 1600w">
+      <figcaption>Tornem-ho a fer! És a l'abast.</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jpbhtf.github.io/gh-pages/media/posts/1/5-Espanya_no_futur.jpg" height="1665" width="1189" alt="Espanya no té cap futur per a Catalunya."  sizes="100vw" srcset="https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/5-Espanya_no_futur-xs.jpg 300w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/5-Espanya_no_futur-sm.jpg 480w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/5-Espanya_no_futur-md.jpg 768w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/5-Espanya_no_futur-lg.jpg 1024w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/5-Espanya_no_futur-xl.jpg 1360w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/5-Espanya_no_futur-2xl.jpg 1600w">
+      <figcaption>Espanya no té cap futur per a Catalunya.</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jpbhtf.github.io/gh-pages/media/posts/1/6-El_nou_embat_ha-de-durar_setmanes.jpg" height="1665" width="1189" alt="El nou embat ha de durar setmanes."  sizes="100vw" srcset="https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/6-El_nou_embat_ha-de-durar_setmanes-xs.jpg 300w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/6-El_nou_embat_ha-de-durar_setmanes-sm.jpg 480w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/6-El_nou_embat_ha-de-durar_setmanes-md.jpg 768w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/6-El_nou_embat_ha-de-durar_setmanes-lg.jpg 1024w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/6-El_nou_embat_ha-de-durar_setmanes-xl.jpg 1360w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/6-El_nou_embat_ha-de-durar_setmanes-2xl.jpg 1600w">
+      <figcaption>El nou embat ha de durar setmanes.</figcaption>
+    </figure>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://jpbhtf.github.io/gh-pages/media/posts/1/7-Triple_escalada.jpg" height="1665" width="1189" alt="Triple escalada: mobilitzacions, política, internacional"  sizes="100vw" srcset="https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/7-Triple_escalada-xs.jpg 300w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/7-Triple_escalada-sm.jpg 480w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/7-Triple_escalada-md.jpg 768w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/7-Triple_escalada-lg.jpg 1024w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/7-Triple_escalada-xl.jpg 1360w ,https://jpbhtf.github.io/gh-pages/media/posts/1/responsive/7-Triple_escalada-2xl.jpg 1600w">
+      <figcaption>Triple escalada: mobilitzacions, política, internacional</figcaption>
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
