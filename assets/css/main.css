@@ -2331,7 +2331,8 @@ textarea {
 .blocks {
   display: flex;
   flex-wrap: wrap;
-  padding: 64px;
+  justify-content: space-between;
+  padding: 32px;
   margin: 0px;
 }
 
