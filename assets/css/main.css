@@ -2331,12 +2331,48 @@ textarea {
 .blocks {
   display: flex;
   flex-wrap: wrap;
+  padding: 64px;
+  margin: 0px;
 }
 
 .block {
   display: block;
-  min-height: 10em;
-  min-width: 15em;
+  background-color: #f8f8f8;
   padding: 6px;
   margin: 8px;
+  width: auto;
+  max-width: 40em;
+}
+
+@media all and (max-width: 19.9375em) {
+  .blocks {
+    padding: 10px;
+  }
+
+  .block {
+    min-height: 10em;
+    min-width: 15em;
+    padding: 24px;
+    margin: 24px;
+    max-width: 100%;
+  }
+}
+
+@media all and (max-width: 37.4375em) {
+  .blocks {
+    padding: 10px;
+  }
+
+  .block {
+    min-height: 10em;
+    min-width: 15em;
+    padding: 12px;
+    margin: 12px;
+    max-width: 100%;
+  }
+}
+
+.feed {
+  border-top: 1px double aliceblue;
+  margin-top: 24px;
 }
